@@ -1,2 +1,2 @@
-# TDD -EEG SIgnals 
+# TDD -EEG Signals 
  
